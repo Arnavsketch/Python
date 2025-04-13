@@ -1,1 +1,1 @@
-# Python
+This repository contains a collection of hands-on Python projects built as part of an ongoing, project-based Python course. These projects cover core programming concepts such as automation, GUI development, web scraping, web development, and object-oriented design. Each project is designed to reinforce real-world coding skills using popular libraries and tools.
